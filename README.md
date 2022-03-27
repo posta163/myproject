@@ -12,3 +12,9 @@ jak na stronie
 https://flask.palletsprojects.com/en/2.0.x/installation/
 
 
+utworzenie pliku requirements
+
+aby otworzyc strone trzeba przejsc pod aders 
+http://127.0.0.1:5000
+
+
